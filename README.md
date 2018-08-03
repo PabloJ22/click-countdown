@@ -4,6 +4,7 @@ sooooooo, for some reason,, i got hella errors unless i put this script tag in::
 
     <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-app.js"></script>
     /////////////////////////////////
+    ^^^ how i got that link i dont recall but i did and its there and it works hahaha 
     
     im saying that i needed 2 firebase script tags to make it work without errors.
    my <head> section looks like this::::((((2 firebase tags)))))
